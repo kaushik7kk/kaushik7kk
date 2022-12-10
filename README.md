@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaushik7kk
 - 👀 I’m interested in learning new and productive things.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Web Development Projects (if any).
+- 💞️ I’m looking to collaborate on Data Analytics Projects (if any).
 - 📫 How to reach me:
     LinkedIn - https://www.linkedin.com/in/kushagra-kaushik-947725192/
 
